@@ -44,11 +44,11 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('📍 Update Channel', url='https://t.me/NT_BOT_CHANNEL'),
+                InlineKeyboardButton('📍 Update Channel', url='https://t.me/xiaochen_animationtv_cloud'),
             ],
             [
-                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/LISA_FAN_LK'),
-                InlineKeyboardButton('👥 Support Group', url='https://t.me/NT_BOTS_SUPPORT'),
+                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/phu_edit_gm'),
+                InlineKeyboardButton('👥 Support Group', url='https://t.me/xiaochen_animationtv_cloud'),
             ],
             [
                 InlineKeyboardButton('⛔️ Close', callback_data='cancel')
