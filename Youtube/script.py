@@ -4,12 +4,12 @@ class Translation(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├📛 **My Name** : [YouTube Video Uploader Bot](https://t.me/YouTubeUploaderOneBot)
-├📢 **Framework** : [Pyrogram 2.0.106](https://docs.pyrogram.org/)
-├💮 **Language** : [Python 3.12.3](https://www.python.org)
-├👥 **Support Group** : [NT BOTS SUPPORT](https://t.me/NT_BOTS_SUPPORT)
-├🥏 **Channel** : [NT BOT CHANNEL](https://t.me/NT_BOT_CHANNEL)
+├📛 **Channel** : [Cloud Dong Hua](https://t.me/xiaochen_animationtv_cloud)
+├📢 **Website** : [SeaTV24](https://seatv24.xyz)
+├💮 **TikTok** : [𝐂𝐡𝐞𝐧 𝐘𝐚𝐧𝐠](tiktok.com/@phu_edit_gm)
+├👥 **Group** : [Group](https://t.me/+-QHO_nR794wwNTc1)
+├🥏 **YouTube** : [YouTube CHANNEL](https://t.me/NT_BOT_CHANNEL)
 ├⛲ **Source** : [Click Here](https://github.com/LISA-KOREA/YouTube-Video-Download-Bot)
-├🎓 **Developer** : [LISA 👑](https://t.me/LISA_FAN_LK)
+├🎓 **Developer** : [Chen-Yang 👑](https://t.me/phu_edit_gm)
 ╰───────────────⍟
 """
